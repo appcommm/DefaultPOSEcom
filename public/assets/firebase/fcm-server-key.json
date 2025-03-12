@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "giovanna-e-commerce-app",
+  "private_key_id": "eb8ba65240ea2b93dc54317049d9a695f945634c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDyIlUE2wml0N6o\n+LLbSRXTeMp6rZMPluOrpOW3bqPSZAWoX3cqziXs1QrbXhaY3pe1ROHa/H2mUbCe\n3jucO6v7ttEZoA8n2SCwf8B4Hjb6PGb6LXholjYqumxeXhT3vdNPuVJBE2d5nipL\nGqijjupczZVXXyAAQt9+0vda8G1e+RAFZVGMyIAiJp7u1DCw10ASMMWBVUyVvrc7\nQLza3+icxofZKJuAuHseNvDW7EkoEEyMcR49bdm2wiMyx6juFaLfPzw/MF+ZbZ7q\nPy0LEwFyrDG1t7CE5H+cHrXhK9NWv2IjhXG0FFBaluAv3wqAlY+GOfWvcpa4fhvd\njUqoYFoXAgMBAAECggEAaVsO60HzfLbZa2RrTocKfC1+zMphxtK81Z62ZY46sfzb\niVugmnuAfQBl7PWPl4yjLjh+na5nbcr1suq3vU8pkikF6sR+U7RiSOoNcTaUbWWC\n2TCXx8o0X3smVBlTvkhWfcYBSFeNGpn7hRpgbmptB1xcstutLO/sF17sSiF7NWsJ\nINU4tS/o5o3g0mLxptHB7CqL69tylrf2J7zH7pc+4E+FSeTl71BTHk8gDQgKG7gC\nMCH7A0HQdZaqaf1VF40oG+XPQSCs0ssHhxyzO2LrU2+kFmzEMTIHTClCPYe4ZhTc\nHJYqTXXQPWY5u4WR3JCcbR3yilJYJgOpo4FkA8nVwQKBgQD841tZSwaj3gwdoJ+I\nEOWoKJyRg1g8+ER6wgcMc6hwbkSV5EN4C2BSfFTqAK6BTLDr1zx/M4dNJx7r7Lgy\nrY6tY4n3i1tWfHjbXl1JFBut9zA6iIkJiiEDCiugadeqIYuYHLaexl8ht+Y5T3QU\nR9czFbowPnYRlFTs6O6HhzAEHwKBgQD1HRklTUdakvjdBDKu7dZLn345wIRPjQIJ\n6lmwA4nw15WuXKeE4R/5YzNOFIs1q7zC/ccIWcGZvst4etBge51DCeSkDVsIb4OF\nFI1yIVsqocXxl4n7ow1iX0/aVXLGS+LLDhO+m2bZEeFRN2W04f/jKDEPcuG1lIYe\n6VE80SErCQKBgHuRQHaOMW1qt3LWpH0g/IbBaVe03S3VheiR3E3aSci+KKcxRUJo\nFKXZeMhqkto9NgnXPwlMjWVGo1ZWcd7ZbWkNxUF/B59n7MoL/vsRZ0EHErrXMlbF\n9sF8e7rDXQ0VnRczmIxWk+9u44DHcQnj3KRqjnK6YojOePzWCI+SoASzAoGBAKWw\ndsgFVh9+zCUy6kPfWAWkmcHWRloz+lXTia72pW8de/vye/bR6zg8e3jjYDr2jVHO\nFJWrfrg8BfS6KFOgG+0uKdVPheLM5r215+tnauYFlvW5tzdXv/tobGUtb7lloLgc\nGvK0v7AqawHojaLZRo06JPfJc5O4A3WvyA9xWpdpAoGADJ+lL18ZO2VNgbNi9V0S\nPHo/Gsd2DoBBEfxmMwBqdQLNp+wyxq2B+0WP9Lh9YcFOwLAwHTPP6J/nKDyUILVk\n3Bab9zkbGd6f6HrrzKrZvQIdFPBYcgGEK8i7GlVa2yBaCljQGG69CtROukEYXYA7\nn1pVy71b4yoKgDpUaCXhB2Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-cdmms@giovanna-e-commerce-app.iam.gserviceaccount.com",
+  "client_id": "109244615382332768299",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cdmms%40giovanna-e-commerce-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,12 @@
+.react-datepicker__header__dropdown {
+    padding-top: 30px;
+}
+
+.react-datepicker__header {
+    overflow: visible !important;
+}
+
+.datepicker .react-datepicker__day-names {
+    top: 0px !important;
+    margin-top: 0px !important;
+}
